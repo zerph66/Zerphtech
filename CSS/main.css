@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.h-bg-color {
+    background-color: #1F2937;
+}
+
+.h-container {
+    padding: 1em 13em; 
+    display: flex;
+    align-items: center;
+}
+
+.h-title {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.h-navbar {
+    margin-left: auto;
+}
+
+.h-navbar a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left h1 {
+    color: #F9FAF8;
+}
+
+.left p {
+    color: #E5E7EB;
+}
+
+.button{
+
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
